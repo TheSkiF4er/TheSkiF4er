@@ -20,6 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :man_technologist: About Me:
 
 I am a Middle Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Russian Federation.
@@ -57,6 +58,7 @@ I am a Middle Full-Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheSkiF4er&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkiF4er&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
