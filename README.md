@@ -25,13 +25,19 @@
 
 I am a Middle Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Russian Federation.
 
-- :telescope: I work as a Cajeer Team Lead and Software Engineer and am involved in front end and back end development for building web applications.
+- :telescope: I work as a Cajeer team leader and software engineer and also do front-end and back-end development to create web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my spare time, I develop Open-Source Projects and read technical articles.
 
-- :mailbox:How to reach me: [![VK Badge](https://img.shields.io/badge/-SkiF4er-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/theskif4er)
+- :mailbox: How to reach me: [![VK Badge](https://img.shields.io/badge/-SkiF4er-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/theskif4er)
+
+- 🌱 I'm currently working on Social System Olica.
+
+- 👯 I’m looking to collaborate on Arog Kit and Cajeer Engine Kit.
+
+- ⚡Fun fact: I have a cat, a parrot, a dog and two hamsters at home.
 
 ---
 
