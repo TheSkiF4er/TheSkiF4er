@@ -4,11 +4,11 @@
     <a href="https://vk.com/theskif4er">
       <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white"/>
     </a>
-    <a href="https://t.me/sf4blog">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
     <a href="https://cajeer.ru/user/skif4er">
       <img src="https://img.shields.io/badge/CajeerTeam-black?style=for-the-badge&logo=cajeer&logoColor=white"/>
+    </a>
+    <a href="https://t.me/sf4blog">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-TheSkiF4er&style=flat-square&color=blue" alt=""/>
