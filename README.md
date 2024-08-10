@@ -4,7 +4,7 @@
     <a href="https://vk.com/theskif4er">
       <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white"/>
     </a>
-    <a href="https://cajeer.ru/user/skif4er">
+    <a href="https://cajeer.com/user/skif4er">
       <img src="https://img.shields.io/badge/CajeerTeam-black?style=for-the-badge&logo=cajeer&logoColor=white"/>
     </a>
     <a href="https://t.me/sf4blog">
