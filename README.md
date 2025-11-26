@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/CajeerTeam-black?style=for-the-badge&logo=cajeer&logoColor=white"/>
     </a>
     <a href="https://t.me/sf4blog">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-TheSkiF4er&style=flat-square&color=blue" alt=""/>
