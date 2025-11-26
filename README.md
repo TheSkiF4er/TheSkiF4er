@@ -31,11 +31,11 @@ I am a Senior Full-Stack Developer and DevOps Engineer <img src="https://media.g
 
 - :zap: In my free time, I develop open source projects and help community organizations.
 
-- :mailbox: How to reach me: [![TG Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://t.me/sf4meet)
+- :mailbox: How to reach me: [![TG Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sf4meet)
 
-- 🌱 I'm currently working on Social System Olica.
+- 🌱 I am currently working on developing Cajeer resources.
 
-- 👯 I’m looking to collaborate on Arog Kit and Cajeer Engine Kit.
+- 👯 I’m looking to collaborate on Arog Kit and Cajeer Engine.
 
 - ⚡Fun fact: I have a cat, a parrot, a dog and two hamsters at home.
 
