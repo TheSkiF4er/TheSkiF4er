@@ -4,7 +4,7 @@
     <a href="https://vk.com/theskif4er">
       <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white"/>
     </a>
-    <a href="https://cajeer.com/user/skif4er">
+    <a href="https://cajeer.com/">
       <img src="https://img.shields.io/badge/CajeerTeam-black?style=for-the-badge&logo=cajeer&logoColor=white"/>
     </a>
     <a href="https://t.me/sf4blog">
@@ -23,15 +23,15 @@
 
 ### :man_technologist: About Me:
 
-I am a Middle Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Russian Federation.
+I am a Senior Full-Stack Developer and DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Russian Federation.
 
-- :telescope: I work as a Cajeer team leader and software engineer and also do front-end and back-end development to create web applications.
+- :telescope: I am the head of the Cajeer team and a cybersecurity specialist, developing front-end and back-end web applications, and also consulting organizations on IT Innovation and IT Security.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Study of technical documentation and psychology.
 
-- :zap: In my spare time, I develop Open-Source Projects and read technical articles.
+- :zap: In my free time, I develop open source projects and help community organizations.
 
-- :mailbox: How to reach me: [![VK Badge](https://img.shields.io/badge/-SkiF4er-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/theskif4er)
+- :mailbox: How to reach me: [![TG Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white)](https://t.me/sf4meet)
 
 - 🌱 I'm currently working on Social System Olica.
 
