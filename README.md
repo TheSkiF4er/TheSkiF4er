@@ -1,4 +1,4 @@
-# Hi, I’m TheSkiF4er 👋  
+# Hi, I’m SkiF4er 👋  
 **Dmitry Efimov** — Full-Stack & Multi-Language Developer | Open-Source Enthusiast | Team Leader at Cajeer-Team
 
 ---
