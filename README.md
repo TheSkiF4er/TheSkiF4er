@@ -66,7 +66,7 @@
 
 ## 💬 Join the Community
 We have an active **Discord server** for all our projects:  
-[![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QmJ2NDkzYv)
+[![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Z37YaCJFKx)
 
 ---
 
