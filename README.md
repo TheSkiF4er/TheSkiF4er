@@ -36,10 +36,10 @@
 
 ## 🌟 Active Projects & Stats
 
-### [OmniFlow](https://github.com/TheSkiF4er/OmniFlow) — Universal Automation & Workflow Engine  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/OmniFlow?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/OmniFlow?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/OmniFlow?style=flat-square)  
+### [ProdStarterHub](https://github.com/TheSkiF4er/ProdStarterHub) — Production‑ready starter kits & templates for modern apps — in any stack  
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/ProdStarterHub?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/ProdStarterHub?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/ProdStarterHub?style=flat-square)  
 
 ### [PolyglotToolbox](https://github.com/TheSkiF4er/PolyglotToolbox) — Multi-language interoperability examples  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/PolyglotToolbox?style=flat-square) 
