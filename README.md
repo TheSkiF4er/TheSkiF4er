@@ -36,15 +36,15 @@
 
 ## 🌟 Active Projects & Stats
 
-### [ProdStarterHub](https://github.com/TheSkiF4er/ProdStarterHub) — Production‑ready starter kits & templates for modern apps — in any stack  
+### [ProdStarterHub](https://github.com/TheSkiF4er/ProdStarterHub) — Production‑Ready Starter Kits & Templates for Modern Apps — in Any Stack.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/ProdStarterHub?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/ProdStarterHub?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/ProdStarterHub?style=flat-square)  
 
-### [PolyglotToolbox](https://github.com/TheSkiF4er/PolyglotToolbox) — Multi-language interoperability examples  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/PolyglotToolbox?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/PolyglotToolbox?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/PolyglotToolbox?style=flat-square)  
+### [NovaCMS](https://github.com/TheSkiF4er/NovaCMS) — is a next-generation hybrid headless CMS with a visual builder, API-first architecture and a powerful plugin system for product teams and developers.  
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/NovaCMS?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/NovaCMS?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/NovaCMS?style=flat-square)  
 
 ### [EfiModr](https://github.com/TheSkiF4er/EfiModr) — Open-Source Project for system cleaning & optimization  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/EfiModr?style=flat-square) 
