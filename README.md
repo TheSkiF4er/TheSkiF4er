@@ -46,15 +46,15 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/NovaCMS?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/NovaCMS?style=flat-square)  
 
-### [EfiModr](https://github.com/TheSkiF4er/EfiModr) — Open-Source Project for system cleaning & optimization  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/EfiModr?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/EfiModr?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/EfiModr?style=flat-square)  
+### [AuroraStack](https://github.com/TheSkiF4er/AuroraStack) — A full-stack TypeScript framework with a unified data schema, universal rendering, and built-in support for AI and best-practice patterns.  
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/AuroraStack?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/AuroraStack?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/AuroraStack?style=flat-square)  
 
-### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine) — Open-source CMS engine  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerEngine?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)  
+### [SafExpr](https://github.com/TheSkiF4er/SafExpr) — A safe, minimalistic, and type-safe user expression engine for JavaScript/TypeScript: formulas, rules, and filters — without eval, without access to the global environment, and with a delightful developer experience.  
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/SafExpr?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/SafExpr?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/SafExpr?style=flat-square)  
 
 ---
 
