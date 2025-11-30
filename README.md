@@ -56,8 +56,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/SafExpr?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/SafExpr?style=flat-square)  
 
-### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine) — это самоописанная, независимая CMS без сторонних фреймворков и шаблонизаторов.
-Никаких Laravel / Symfony / Twig / Blade — всё, от роутера до шаблонов, написано вручную, специально под задачи Cajeer Engine.  
+### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine) — это самоописанная, независимая CMS без сторонних фреймворков и шаблонизаторов. Никаких Laravel / Symfony / Twig / Blade — всё, от роутера до шаблонов, написано вручную, специально под задачи Cajeer Engine.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)
