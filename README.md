@@ -71,6 +71,20 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/PolyglotToolbox?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/PolyglotToolbox?style=flat-square)
 
+### [AstraForge ReadySuite](https://github.com/TheSkiF4er/AFRS) — это набор готовых, надёжно настроенных сборок и метапакетов для Astra Linux.
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/AFRS?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/AFRS?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/AFRS?style=flat-square)
+
+### [Warog](https://github.com/TheSkiF4er/Warog) — ...
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/Warog?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/Warog?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Warog?style=flat-square)
+
+### [Rarog Framework](https://github.com/TheSkiF4er/Rarog) — ...
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/Rarog?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/Rarog?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Rarog?style=flat-square)
 
 ---
 
