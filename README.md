@@ -56,11 +56,6 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)
 
-### [OmniFlow](https://github.com/TheSkiF4er/OmniFlow) — Universal Open-Source Automation & Workflow Engine.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/OmniFlow?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/OmniFlow?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/OmniFlow?style=flat-square)
-
 ### [PolyglotToolbox](https://github.com/TheSkiF4er/PolyglotToolbox) is an open-source project demonstrating multi-language implementations and interoperability examples across various programming languages.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/PolyglotToolbox?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/PolyglotToolbox?style=flat-square) 
