@@ -41,7 +41,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/ProdStarterHub?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/ProdStarterHub?style=flat-square)  
 
-### [NovaCMS](https://github.com/TheSkiF4er/NovaCMS) — is a next-generation hybrid headless CMS with a visual builder, API-first architecture and a powerful plugin system for product teams and developers.  
+### [NovaCMS](https://github.com/TheSkiF4er/NovaCMS) is a next-generation hybrid headless CMS with a visual builder, API-first architecture and a powerful plugin system for product teams and developers.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/NovaCMS?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/NovaCMS?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/NovaCMS?style=flat-square)  
