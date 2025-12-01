@@ -51,11 +51,6 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/AuroraStack?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/AuroraStack?style=flat-square)  
 
-### [SafExpr](https://github.com/TheSkiF4er/SafExpr) — A safe, minimalistic, and type-safe user expression engine for JavaScript/TypeScript: formulas, rules, and filters — without eval, without access to the global environment, and with a delightful developer experience.  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/SafExpr?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/SafExpr?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/SafExpr?style=flat-square)  
-
 ### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine) — это самоописанная, независимая CMS без сторонних фреймворков и шаблонизаторов.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
