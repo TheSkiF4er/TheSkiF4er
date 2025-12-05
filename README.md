@@ -1,5 +1,5 @@
 # Hi, I’m SkiF4er 👋  
-**Dmitry Efimov** — Full-Stack & Multi-Language Developer | Open-Source Enthusiast | DevOps Engineer
+**SkiF4er** — Full-Stack & Multi-Language Developer | Open-Source Enthusiast | DevOps Engineer | Cybersecurity Specialist | IT-Innovation & IT-Security Consultant
 
 ---
 
