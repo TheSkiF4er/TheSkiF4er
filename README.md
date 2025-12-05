@@ -98,7 +98,6 @@ We have an active **Discord server** for all our projects:
 ## 🔗 Contact & Socials
 - 🌐 Website: [skif4er.ru](https://skif4er.ru/)  
 - 💬 Telegram: [t.me/sf4blog](https://t.me/sf4blog)  
-- 📱 VK: [vk.com/theskif4er](https://vk.com/theskif4er)  
 
 ---
 
