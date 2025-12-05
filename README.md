@@ -36,6 +36,13 @@
 
 ## 🌟 Active Projects & Stats
 
+### 🌐 EN
+
+### [PolyglotToolbox](https://github.com/TheSkiF4er/PolyglotToolbox) is an open-source project demonstrating multi-language implementations and interoperability examples across various programming languages.
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/PolyglotToolbox?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/PolyglotToolbox?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/PolyglotToolbox?style=flat-square)
+
 ### [ProdStarterHub](https://github.com/TheSkiF4er/ProdStarterHub) — Production‑Ready Starter Kits & Templates for Modern Apps — in Any Stack.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/ProdStarterHub?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/ProdStarterHub?style=flat-square) 
@@ -51,15 +58,12 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/AuroraStack?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/AuroraStack?style=flat-square)  
 
+### 🇷🇺 RU
+
 ### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine) — это самоописанная, независимая CMS без сторонних фреймворков и шаблонизаторов.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)
-
-### [PolyglotToolbox](https://github.com/TheSkiF4er/PolyglotToolbox) is an open-source project demonstrating multi-language implementations and interoperability examples across various programming languages.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/PolyglotToolbox?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/PolyglotToolbox?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/PolyglotToolbox?style=flat-square)
 
 ### [AstraForge ReadySuite](https://github.com/TheSkiF4er/AFRS) — это набор готовых, надёжно настроенных сборок и метапакетов для Astra Linux.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/AFRS?style=flat-square) 
