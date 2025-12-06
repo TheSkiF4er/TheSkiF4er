@@ -36,7 +36,7 @@
 
 ## 🌟 Active Projects & Stats
 
-### 🌐 EN
+### 🌐 EN Projects
 
 ### [HelixPanel](https://github.com/TheSkiF4er/HelixPanel) is a modern, fast, and secure server management platform with an API-first design, a clean UI, and powerful automation tools.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/HelixPanel?style=flat-square) 
@@ -63,7 +63,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/AuroraStack?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/AuroraStack?style=flat-square)  
 
-### 🇷🇺 RU
+### 🇷🇺 RU Projects
 
 ### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine) — это самоописанная, независимая CMS без сторонних фреймворков и шаблонизаторов.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerEngine?style=flat-square) 
@@ -89,6 +89,12 @@
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/Farog?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Farog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Farog?style=flat-square)
+
+### ❤️ Lytron DRL
+
+### Discord.ly
+
+### Telegram.ly
 
 ---
 
