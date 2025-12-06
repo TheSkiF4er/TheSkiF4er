@@ -65,7 +65,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)
 
-### [SkyPanel](https://github.com/TheSkiF4er/SkyPanel) — лёгкая, современная и высоконадёжная панель управления сайтами, созданная для максимального удобства, скорости и контроля для Astra Linux.
+### [SkyPanel](https://github.com/TheSkiF4er/SkyPanel) — лёгкая, современная и высоконадёжная панель управления веб-сервером и сайтами, созданная для максимального удобства, скорости и контроля под ОС Astra Linux.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/SkyPanel?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/SkyPanel?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/SkyPanel?style=flat-square)
