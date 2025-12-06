@@ -38,10 +38,10 @@
 
 ### 🌐 EN
 
-### [PolyglotToolbox](https://github.com/TheSkiF4er/PolyglotToolbox) is an open-source project demonstrating multi-language implementations and interoperability examples across various programming languages.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/PolyglotToolbox?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/PolyglotToolbox?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/PolyglotToolbox?style=flat-square)
+### [HelixPanel](https://github.com/TheSkiF4er/HelixPanel) is a modern, fast, and secure server management platform with an API-first design, a clean UI, and powerful automation tools.
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/HelixPanel?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/HelixPanel?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/HelixPanel?style=flat-square)
 
 ### [ProdStarterHub](https://github.com/TheSkiF4er/ProdStarterHub) — Production‑Ready Starter Kits & Templates for Modern Apps — in Any Stack.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/ProdStarterHub?style=flat-square) 
