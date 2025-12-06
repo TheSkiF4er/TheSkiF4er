@@ -48,10 +48,10 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Veyronix?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Veyronix?style=flat-square)  
 
-### [ProdStarterHub](https://github.com/TheSkiF4er/ProdStarterHub) — Production‑Ready Starter Kits & Templates for Modern Apps — in Any Stack.  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/ProdStarterHub?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/ProdStarterHub?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/ProdStarterHub?style=flat-square)
+### [Lytron](https://github.com/TheSkiF4er/Lytron) is a universal, high-performance programming language designed for modern software development across web, applications, games, and systems.  
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/Lytron?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/Lytron?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Lytron?style=flat-square)
 
 ### [NovaCMS](https://github.com/TheSkiF4er/NovaCMS) is a next-generation hybrid headless CMS with a visual builder, API-first architecture and a powerful plugin system for product teams and developers.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/NovaCMS?style=flat-square) 
