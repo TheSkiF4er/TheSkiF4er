@@ -65,10 +65,10 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)
 
-### [AstraForge ReadySuite](https://github.com/TheSkiF4er/AFRS) — это набор готовых, надёжно настроенных сборок и метапакетов для Astra Linux.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/AFRS?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/AFRS?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/AFRS?style=flat-square)
+### [SkyPanel](https://github.com/TheSkiF4er/SkyPanel) — лёгкая, современная и высоконадёжная панель управления серверами, созданная для максимального удобства, скорости и контроля для Astra Linux.
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/SkyPanel?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/SkyPanel?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/SkyPanel?style=flat-square)
 
 ### [Warog JS-Framework](https://github.com/TheSkiF4er/Warog) — ...
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/Warog?style=flat-square) 
