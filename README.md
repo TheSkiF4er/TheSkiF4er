@@ -80,10 +80,10 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Rarog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Rarog?style=flat-square)
 
-### [Arog](https://github.com/TheSkiF4er/Arog) — это современный, сверхбыстрый и безопасный JavaScript/TypeScript-runtime нового поколения, объединяющий в одном бинарнике всё необходимое для разработки: исполнение кода, пакетный менеджер, бандлер и тестовый фреймворк.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/Arog?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/Arog?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Arog?style=flat-square)
+### [Farog](https://github.com/TheSkiF4er/Farog) — это современный, сверхбыстрый и безопасный JavaScript/TypeScript-runtime нового поколения, объединяющий в одном бинарнике всё необходимое для разработки: исполнение кода, пакетный менеджер, бандлер и тестовый фреймворк.
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/Farog?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/Farog?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Farog?style=flat-square)
 
 ---
 
