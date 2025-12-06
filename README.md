@@ -80,7 +80,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Warog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Warog?style=flat-square)
 
-### [Rarog CSS-Framework](https://github.com/TheSkiF4er/Rarog) — ...
+### [Rarog](https://github.com/TheSkiF4er/Rarog) — это ультрасовременный CSS-фреймворк, построенный на идее элементных структур, потокового поведения и природных принципов формообразования.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/Rarog?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Rarog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Rarog?style=flat-square)
