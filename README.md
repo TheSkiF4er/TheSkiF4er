@@ -75,7 +75,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/SkyPanel?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/SkyPanel?style=flat-square)
 
-### [Warog JS-Framework](https://github.com/TheSkiF4er/Warog) — ...
+### [Warog](https://github.com/TheSkiF4er/Warog) — это современный JavaScript-фреймворк, созданный полностью с нуля для максимальной скорости, чистоты и контроля.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/Warog?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Warog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Warog?style=flat-square)
