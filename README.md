@@ -1,5 +1,5 @@
 # Hi, I’m SkiF4er 👋  
-**SkiF4er** — Full-Stack & Multi-Language Developer | Open-Source Enthusiast | DevOps Engineer | Gray Hat | IT-Innovation & IT-Security Consultant | Team Leader [Cajeer](https://github.com/CajeerTeam) @CajeerTeam
+**SkiF4er** — Full-Stack & Multi-Language Developer | Open-Source Enthusiast | DevOps Engineer | Gray Hat | IT-Innovation & IT-Security Consultant | Team Leader [Cajeer](https://github.com/CajeerTeam)
 
 ---
 
