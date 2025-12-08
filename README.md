@@ -43,7 +43,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/HelixPanel?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/HelixPanel?style=flat-square)
 
-### [Veyronix](https://github.com/TheSkiF4er/Veyronix) — a next-generation virtualization and infrastructure management platform designed for maximum performance, simplicity, and scalability.  
+### [Veyronix](https://github.com/TheSkiF4er/Veyronix) is a next-generation virtualization and infrastructure management platform designed for maximum performance, simplicity, and scalability.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/Veyronix?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Veyronix?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Veyronix?style=flat-square)  
@@ -58,7 +58,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/NovaCMS?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/NovaCMS?style=flat-square)  
 
-### [AuroraStack](https://github.com/TheSkiF4er/AuroraStack) — A full-stack TypeScript framework with a unified data schema, universal rendering, and built-in support for AI and best-practice patterns.  
+### [AuroraStack](https://github.com/TheSkiF4er/AuroraStack) is a full-stack TypeScript framework with a unified data schema, universal rendering, and built-in support for AI and best-practice patterns.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/AuroraStack?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/AuroraStack?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/AuroraStack?style=flat-square)  
@@ -70,7 +70,7 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)
 
-### [SkyPanel](https://github.com/TheSkiF4er/SkyPanel) — лёгкая, современная и высоконадёжная панель управления веб-сервером и сайтами, созданная для максимального удобства, скорости и контроля под ОС Astra Linux.
+### [SkyPanel](https://github.com/TheSkiF4er/SkyPanel) — это лёгкая, современная и высоконадёжная панель управления веб-сервером и сайтами, созданная для максимального удобства, скорости и контроля под ОС Astra Linux.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/SkyPanel?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/SkyPanel?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/SkyPanel?style=flat-square)
