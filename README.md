@@ -34,6 +34,29 @@
 
 ---
 
+## 🧰 Tools & Environment
+
+Below is my primary set of tools and environments that I use in daily development and server management.
+
+| Category | Tools |
+|----------|--------|
+| **Workspace OS** | Windows |
+| **Server OS** | Debian |
+| **Editors / IDE** | Visual Studio, Visual Studio Code |
+| **SSH Client** | Helix |
+| **Virtualization / VE** | Veyronix |
+| **Web Server / Control Panel** | SkyPanel |
+| **Version Control** | Git, GitHub |
+| **Containerization** | Docker |
+| **Programming Languages** | C, C++, C#, Java, PHP, JavaScript, TypeScript, Python, Go, Ruby, Kotlin |
+| **Backend Stack** | Node.js, NPM / Yarn, Composer |
+| **Databases** | MySQL / MariaDB, PostgreSQL, SQLite |
+| **DevOps / Automation** | CI/CD (GitHub Actions), Bash / PowerShell scripts |
+| **Additional Tools** | Postman, cURL, OpenSSL, Make / Ninja |
+
+
+---
+
 ## 🌟 Active Projects & Stats
 
 ### 🌐 EN Projects
