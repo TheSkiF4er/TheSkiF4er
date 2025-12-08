@@ -94,7 +94,7 @@
 
 ### [CJRE Modules](https://github.com/TheSkiF4er/)
 
-### [CJRE Plugins](https://github.com/TheSkiF4er/)
+### [CJRE Packages](https://github.com/TheSkiF4er/)
 
 ### ❤️ CJRLang DRL
 
