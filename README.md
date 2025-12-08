@@ -48,10 +48,10 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Veyronix?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Veyronix?style=flat-square)  
 
-### [Lytron](https://github.com/TheSkiF4er/Lytron) is a universal, high-performance programming language designed for modern software development across web, applications, games, and systems.  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/Lytron?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/Lytron?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Lytron?style=flat-square)
+### [CajeerLanguage](https://github.com/TheSkiF4er/CajeerLanguage) is a universal, high-performance programming language designed for modern software development across web, applications, games, and systems.  
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerLanguage?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerLanguage?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerLanguage?style=flat-square)
 
 ### [NovaCMS](https://github.com/TheSkiF4er/NovaCMS) is a next-generation hybrid headless CMS with a visual builder, API-first architecture and a powerful plugin system for product teams and developers.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/NovaCMS?style=flat-square) 
@@ -90,11 +90,11 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Farog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Farog?style=flat-square)
 
-### ❤️ Lytron DRL
+### ❤️ CJRLang DRL
 
-### [Discord.ly](https://github.com/TheSkiF4er/)
+### [Discord.cjr](https://github.com/TheSkiF4er/)
 
-### [Telegram.ly](https://github.com/TheSkiF4er/)
+### [Telegram.cjr](https://github.com/TheSkiF4er/)
 
 ---
 
