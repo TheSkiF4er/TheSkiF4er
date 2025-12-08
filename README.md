@@ -134,4 +134,4 @@ We have an active **Discord server** for all our projects:
 ---
 
 ## 📣 Open for Collaboration
-Full-stack, multi-language, or open-source projects — let's build something amazing together! 🚀
+Full-stack, multi-language or open-source projects — let's build something amazing together! 🚀
