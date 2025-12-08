@@ -38,10 +38,10 @@
 
 ### 🌐 EN Projects
 
-### [HelixPanel](https://github.com/TheSkiF4er/HelixPanel) is a modern, fast, and secure server management platform with an API-first design, a clean UI, and powerful automation tools.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/HelixPanel?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/HelixPanel?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/HelixPanel?style=flat-square)
+### [Helix](https://github.com/TheSkiF4er/Helix) is a modern, secure, cross-platform SSH terminal and connection manager focused on productivity, security, and extensibility.
+![Stars](https://img.shields.io/github/stars/TheSkiF4er/Helix?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/TheSkiF4er/Helix?style=flat-square) 
+![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Helix?style=flat-square)
 
 ### [Veyronix](https://github.com/TheSkiF4er/Veyronix) is a next-generation virtualization and infrastructure management platform designed for maximum performance, simplicity, and scalability.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/Veyronix?style=flat-square) 
