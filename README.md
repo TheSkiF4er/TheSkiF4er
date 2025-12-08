@@ -92,9 +92,9 @@
 
 ### ❤️ Lytron DRL
 
-### Discord.ly
+### [Discord.ly](https://github.com/TheSkiF4er/)
 
-### Telegram.ly
+### [Telegram.ly](https://github.com/TheSkiF4er/)
 
 ---
 
