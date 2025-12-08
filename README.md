@@ -37,10 +37,15 @@
 ## 🧰 Tools & Environment
 
 **Workspace OS:** Windows 11
+
 **Server OS:** Debian 12
+
 **Editors/IDE:** Visual Studio & Visual Studio Code
+
 **SSH Client:** Helix
+
 **Virtualization/VE:** Veyronix
+
 **WebServer/CP:** SkyPanel
 
 ---
