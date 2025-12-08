@@ -40,7 +40,7 @@
 
 **Server OS:** Debian 12
 
-**Editors/IDE:** Visual Studio & Visual Studio Code
+**Editors/IDE:** Visual Studio Enterprise & Visual Studio Code
 
 **SSH Client:** Helix
 
