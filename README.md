@@ -90,6 +90,12 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Farog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Farog?style=flat-square)
 
+### ❤️ CJREngine LMP
+
+### [CJRE Modules](https://github.com/TheSkiF4er/)
+
+### [CJRE Plugins](https://github.com/TheSkiF4er/)
+
 ### ❤️ CJRLang DRL
 
 ### [Discord.cjr](https://github.com/TheSkiF4er/)
