@@ -38,7 +38,7 @@
 
 **Workspace OS:** Windows 11
 
-**Server OS:** Debian 12
+**Server OS:** Debian 12 & Ubuntu 24
 
 **Editors/IDE:** Visual Studio Enterprise & Visual Studio Code
 
