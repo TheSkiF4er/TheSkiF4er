@@ -128,13 +128,15 @@
 
 ## 💬 Join the Community
 We have an active **Discord server** for all our projects:  
-[![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Z37YaCJFKx)
+[![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/E52DxpShQy)
 
 ---
 
 ## 🔗 Contact & Socials
-- 🌐 Website: [skif4er.ru](https://skif4er.ru/)  
-- 💬 Telegram: [t.me/sf4blog](https://t.me/sf4blog)  
+- 🌐 Website: [skif4er.ru](https://skif4er.ru/)
+- 🌐 Website: [cajeer.ru](https://cajeer.ru/)  
+- 💬 Telegram: [t.me/sf4blog](https://t.me/sf4blog)
+- 💬 Discord: [discord.gg/sf4hub](https://discord.gg/E52DxpShQy)
 
 ---
 
