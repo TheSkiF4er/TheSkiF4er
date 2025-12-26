@@ -34,40 +34,9 @@
 
 ---
 
-## 🧰 Tools & Environment
-
-**Workspace OS:** Windows 11
-
-**Server OS:** Debian 12 & Ubuntu 24
-
-**Editors/IDE:** Visual Studio Enterprise & Visual Studio Code
-
-**SSH Client:** Helix
-
-**Virtualization/VE:** Veyronix
-
-**WebServer/CP:** SkyPanel
-
----
-
 ## 🌟 Active Projects & Stats
 
 ### 🌐 EN Projects
-
-### [Helix](https://github.com/TheSkiF4er/Helix) is a modern, secure, cross-platform SSH terminal and connection manager focused on productivity, security, and extensibility.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/Helix?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/Helix?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Helix?style=flat-square)
-
-### [Veyronix](https://github.com/TheSkiF4er/Veyronix) is a next-generation virtualization and infrastructure management platform designed for maximum performance, simplicity, and scalability.  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/Veyronix?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/Veyronix?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Veyronix?style=flat-square)  
-
-### [CajeerLanguage](https://github.com/TheSkiF4er/CajeerLanguage) is a universal, high-performance programming language designed for modern software development across web, applications, games, and systems.  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerLanguage?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerLanguage?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerLanguage?style=flat-square)
 
 ### [NovaCMS](https://github.com/TheSkiF4er/NovaCMS) is a next-generation hybrid headless CMS with a visual builder, API-first architecture and a powerful plugin system for product teams and developers.  
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/NovaCMS?style=flat-square) 
@@ -85,11 +54,6 @@
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)
-
-### [SkyPanel](https://github.com/TheSkiF4er/SkyPanel) — это лёгкая, современная и высоконадёжная панель управления веб-сервером и сайтами, созданная для максимального удобства, скорости и контроля.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/SkyPanel?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/SkyPanel?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/SkyPanel?style=flat-square)
 
 ### [Warog](https://github.com/TheSkiF4er/Warog) — это современный JavaScript-фреймворк, созданный полностью с нуля для максимальной скорости, чистоты и контроля.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/Warog?style=flat-square) 
