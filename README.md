@@ -70,17 +70,21 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Farog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Farog?style=flat-square)
 
-### 🧡 CJREngine LMP
+### 🧡 CajeerEngine LMP
 
 ### [CJRE Modules](https://github.com/TheSkiF4er/)
 
 ### [CJRE Packages](https://github.com/TheSkiF4er/)
 
-### ❤️ CJRLang DRL
+### [CJRE Themes](https://github.com/TheSkiF4er/)
 
-### [Discord.cjr](https://github.com/TheSkiF4er/)
+### ❤️ NovaCMS LMP
 
-### [Telegram.cjr](https://github.com/TheSkiF4er/)
+### [NCMS Modules](https://github.com/TheSkiF4er/)
+
+### [NCMS Packages](https://github.com/TheSkiF4er/)
+
+### [NCMS Themes](https://github.com/TheSkiF4er/)
 
 ---
 
