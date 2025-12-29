@@ -43,32 +43,15 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/NovaCMS?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/NovaCMS?style=flat-square)  
 
-### [AuroraStack](https://github.com/TheSkiF4er/AuroraStack) is a full-stack TypeScript framework with a unified data schema, universal rendering, and built-in support for AI and best-practice patterns.  
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/AuroraStack?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/AuroraStack?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/AuroraStack?style=flat-square)  
-
-### 🇷🇺 RU Projects
-
 ### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine) — это самоописанная, независимая CMS без сторонних фреймворков и шаблонизаторов.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/CajeerEngine?style=flat-square)
 
-### [Warog](https://github.com/TheSkiF4er/Warog) — это современный JavaScript-фреймворк, созданный полностью с нуля для максимальной скорости, чистоты и контроля.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/Warog?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/Warog?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Warog?style=flat-square)
-
 ### [Rarog](https://github.com/TheSkiF4er/Rarog) — это ультрасовременный CSS-фреймворк, построенный на идее элементных структур, потокового поведения и природных принципов формообразования.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/Rarog?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Rarog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Rarog?style=flat-square)
-
-### [Farog](https://github.com/TheSkiF4er/Farog) — это современный, сверхбыстрый и безопасный JavaScript/TypeScript-runtime нового поколения, объединяющий в одном бинарнике всё необходимое для разработки: исполнение кода, пакетный менеджер, бандлер и тестовый фреймворк.
-![Stars](https://img.shields.io/github/stars/TheSkiF4er/Farog?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/TheSkiF4er/Farog?style=flat-square) 
-![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Farog?style=flat-square)
 
 ### 🧡 CajeerEngine LMP
 
