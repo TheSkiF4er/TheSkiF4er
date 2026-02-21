@@ -43,6 +43,8 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/NovaCMS?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/NovaCMS?style=flat-square)  
 
+### 🌐 RU Projects
+
 ### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine) — это самоописанная, независимая CMS без сторонних фреймворков и шаблонизаторов.
 ![Stars](https://img.shields.io/github/stars/TheSkiF4er/CajeerEngine?style=flat-square) 
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/CajeerEngine?style=flat-square) 
@@ -53,41 +55,11 @@
 ![Forks](https://img.shields.io/github/forks/TheSkiF4er/Rarog?style=flat-square) 
 ![Commits](https://img.shields.io/github/commit-activity/m/TheSkiF4er/Rarog?style=flat-square)
 
-### 🧡 CajeerEngine LMP
-
-### [CJRE Modules](https://github.com/TheSkiF4er/)
-
-### [CJRE Packages](https://github.com/TheSkiF4er/)
-
-### [CJRE Themes](https://github.com/TheSkiF4er/)
-
-### ❤️ NovaCMS LMP
-
-### [NCMS Modules](https://github.com/TheSkiF4er/)
-
-### [NCMS Packages](https://github.com/TheSkiF4er/)
-
-### [NCMS Themes](https://github.com/TheSkiF4er/)
-
 ---
 
 ## 📊 GitHub Overview
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSkiF4er&show_icons=true&theme=dark&count_private=true)  
 ![Top Languages](https://img.shields.io/github/languages/top/TheSkiF4er?theme=dark)
-
----
-
-## 💬 Join the Community
-We have an active **Discord server** for all our projects:  
-[![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/E52DxpShQy)
-
----
-
-## 🔗 Contact & Socials
-- 🌐 Website: [skif4er.ru](https://skif4er.ru/)
-- 🌐 Website: [cajeer.ru](https://cajeer.ru/)  
-- 💬 Telegram: [t.me/sf4blog](https://t.me/sf4blog)
-- 💬 Discord: [discord.gg/sf4hub](https://discord.gg/E52DxpShQy)
 
 ---
 
