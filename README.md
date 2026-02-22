@@ -10,8 +10,7 @@
 
 **Languages:** C, C++, C#, Java, PHP, JavaScript, TypeScript, Python, Go, Ruby, Kotlin, Pawn  
 **Databases:** MySQL, PostgreSQL, SQLite, MariaDB, MongoDB  
-**Frameworks & Tools:** React, Vue.js, Node.js, FastAPI, Laravel, Docker, Kubernetes  
-**Own Projects:** OmniFlow, SafExpr, PolyglotToolbox, ProdStarterHub, Rarog, CajeerEngine, NovaCMS
+**Frameworks & Tools:** React, Vue.js, Node.js, FastAPI, Laravel, Docker, Kubernetes
 
 ---
 
@@ -19,10 +18,6 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **OmniFlow** | Workflow automation engine | Python |
-| **SafExpr** | Secure expression engine | JS / TS |
-| **PolyglotToolbox** | Multi-language dev tools | Go |
-| **ProdStarterHub** | Productivity starter suite | JS, TS |
 | **Rarog** | Game & engine tools | C++, C# |
 | **CajeerEngine** | Framework-less CMS | PHP, JS |
 | **NovaCMS** | Headless CMS with visual editor | TypeScript |
