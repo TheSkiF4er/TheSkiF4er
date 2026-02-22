@@ -1,99 +1,140 @@
-# 👋 Hi! I'm SkiF4er
+# 👋 Hello, I'm SkiF4er
 
-**💻 Senior Full-Stack Developer | 🚀 Team Leader & CEO | 🌟 Open-Source Enthusiast**  
-I build scalable, reliable, and cleanly architected solutions. My mission is to create projects that leave a mark and redefine the rules of the game.
+💻 Senior Full-Stack Developer | 🚀 Team Leader & CEO | 🌟 Open-Source Enthusiast
 
 > *"We live in such a way that a monument to us will be erected during our lifetime, bitch."*
 
 ---
 
-## ⚡ My Superpowers (Interactive HUD)
+## 🛠 Languages & Databases
 
-<div align="center">
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-### 🖥 Programming Languages & Databases
+<!-- Programming Languages -->
+<span style="background: linear-gradient(90deg,#4facfe,#00f2fe);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#00f2fe,#4facfe)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#4facfe,#00f2fe)';">C</span>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+<span style="background: linear-gradient(90deg,#43e97b,#38f9d7);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#38f9d7,#43e97b)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#43e97b,#38f9d7)';">C++</span>
 
-<!-- Languages -->
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#A8B9CC">
-<animate attributeName="r" values="25;28;25" dur="1s" repeatCount="indefinite"/></circle><text x="15" y="35" fill="white">C</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#00599C">
-<animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">C++</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#239120">
-<animate attributeName="r" values="25;28;25" dur="1.3s" repeatCount="indefinite"/></circle><text x="12" y="35" fill="white">C#</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#007396">
-<animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.5s" repeatCount="indefinite"/></circle><text x="12" y="35" fill="white">Java</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#777BB4">
-<animate attributeName="r" values="25;28;25" dur="1s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">PHP</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#F7DF1E">
-<animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="1.8s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="black">JS</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#3178C6">
-<animate attributeName="r" values="25;28;25" dur="1.5s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">TS</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#3776AB">
-<animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.8s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">Python</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#00ADD8">
-<animate attributeName="r" values="25;28;25" dur="1.3s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">Go</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#CC342D">
-<animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.5s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">Ruby</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#F18E33">
-<animate attributeName="r" values="25;28;25" dur="1.4s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">Kotlin</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#00B0FF">
-<animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="3s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">Pawn</text></svg>
+<span style="background: linear-gradient(90deg,#fa709a,#fee140);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#fee140,#fa709a)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#fa709a,#fee140)';">C#</span>
+
+<span style="background: linear-gradient(90deg,#30cfd0,#330867);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#330867,#30cfd0)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#30cfd0,#330867)';">Java</span>
+
+<span style="background: linear-gradient(90deg,#ff9a9e,#fad0c4);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#fad0c4,#ff9a9e)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#ff9a9e,#fad0c4)';">PHP</span>
+
+<span style="background: linear-gradient(90deg,#a1c4fd,#c2e9fb);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#c2e9fb,#a1c4fd)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#a1c4fd,#c2e9fb)';">JS</span>
+
+<span style="background: linear-gradient(90deg,#667eea,#764ba2);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#764ba2,#667eea)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#667eea,#764ba2)';">TS</span>
+
+<span style="background: linear-gradient(90deg,#f7971e,#ffd200);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#ffd200,#f7971e)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#f7971e,#ffd200)';">Python</span>
+
+<span style="background: linear-gradient(90deg,#00c6ff,#0072ff);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#0072ff,#00c6ff)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#00c6ff,#0072ff)';">Go</span>
+
+<span style="background: linear-gradient(90deg,#ff758c,#ff7eb3);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#ff7eb3,#ff758c)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#ff758c,#ff7eb3)';">Ruby</span>
+
+<span style="background: linear-gradient(90deg,#4facfe,#00f2fe);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#00f2fe,#4facfe)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#4facfe,#00f2fe)';">Kotlin</span>
+
+<span style="background: linear-gradient(90deg,#fbc2eb,#a6c1ee);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#a6c1ee,#fbc2eb)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#fbc2eb,#a6c1ee)';">Pawn</span>
+
+</div>
+
+<div style="margin-top:10px; display:flex; flex-wrap:wrap; gap:10px;">
 
 <!-- Databases -->
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#4479A1"><animate attributeName="r" values="25;28;25" dur="1s" repeatCount="indefinite"/></circle><text x="5" y="35" fill="white">MySQL</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#336791"><animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2s" repeatCount="indefinite"/></circle><text x="5" y="35" fill="white">PostgreSQL</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#003545"><animate attributeName="r" values="25;28;25" dur="1s" repeatCount="indefinite"/></circle><text x="10" y="35" fill="white">SQLite</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#A0A0A0"><animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.2s" repeatCount="indefinite"/></circle><text x="5" y="35" fill="white">MariaDB</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#47A248"><animate attributeName="r" values="25;28;25" dur="1.3s" repeatCount="indefinite"/></circle><text x="5" y="35" fill="white">MongoDB</text></svg>
+<span style="background: linear-gradient(90deg,#36d1dc,#5b86e5);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#5b86e5,#36d1dc)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#36d1dc,#5b86e5)';">MySQL</span>
+
+<span style="background: linear-gradient(90deg,#ff6a00,#ee0979);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#ee0979,#ff6a00)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#ff6a00,#ee0979)';">PostgreSQL</span>
+
+<span style="background: linear-gradient(90deg,#43e97b,#38f9d7);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#38f9d7,#43e97b)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#43e97b,#38f9d7)';">SQLite</span>
+
+<span style="background: linear-gradient(90deg,#ff9a9e,#fad0c4);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#fad0c4,#ff9a9e)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#ff9a9e,#fad0c4)';">MariaDB</span>
+
+<span style="background: linear-gradient(90deg,#667eea,#764ba2);padding:5px 12px;border-radius:10px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#764ba2,#667eea)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#667eea,#764ba2)';">MongoDB</span>
 
 </div>
 
 ---
 
-### 🛠 Frameworks & Tools
+## 🚀 Selected Projects
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#61DAFB"><animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.5s" repeatCount="indefinite"/></circle><text x="8" y="35" fill="white">React</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#42B883"><animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.5s" repeatCount="indefinite"/></circle><text x="8" y="35" fill="white">Vue.js</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#339933"><animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.8s" repeatCount="indefinite"/></circle><text x="8" y="35" fill="white">Node.js</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#0099CC"><animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.3s" repeatCount="indefinite"/></circle><text x="8" y="35" fill="white">FastAPI</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#FF2D20"><animate attributeName="r" values="25;28;25" dur="1.5s" repeatCount="indefinite"/></circle><text x="8" y="35" fill="white">Laravel</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#2496ED"><animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.1s" repeatCount="indefinite"/></circle><text x="8" y="35" fill="white">Docker</text></svg>
-<svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="#326CE5"><animateTransform attributeName="transform" type="rotate" from="0 30 30" to="360 30 30" dur="2.6s" repeatCount="indefinite"/></circle><text x="8" y="35" fill="white">Kubernetes</text></svg>
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:10px;">
+
+<span style="background: linear-gradient(90deg,#667eea,#764ba2);padding:8px 16px;border-radius:12px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#764ba2,#667eea)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#667eea,#764ba2)';">OmniFlow</span>
+
+<span style="background: linear-gradient(90deg,#ff758c,#ff7eb3);padding:8px 16px;border-radius:12px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#ff7eb3,#ff758c)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#ff758c,#ff7eb3)';">SafExpr</span>
+
+<span style="background: linear-gradient(90deg,#4facfe,#00f2fe);padding:8px 16px;border-radius:12px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#00f2fe,#4facfe)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#4facfe,#00f2fe)';">PolyglotToolbox</span>
+
+<span style="background: linear-gradient(90deg,#fa709a,#fee140);padding:8px 16px;border-radius:12px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#fee140,#fa709a)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#fa709a,#fee140)';">ProdStarterHub</span>
+
+<span style="background: linear-gradient(90deg,#30cfd0,#330867);padding:8px 16px;border-radius:12px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#330867,#30cfd0)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#30cfd0,#330867)';">Rarog</span>
+
+<span style="background: linear-gradient(90deg,#ff9a9e,#fad0c4);padding:8px 16px;border-radius:12px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#fad0c4,#ff9a9e)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#ff9a9e,#fad0c4)';">CajeerEngine</span>
+
+<span style="background: linear-gradient(90deg,#a1c4fd,#c2e9fb);padding:8px 16px;border-radius:12px;transition: all 0.3s;cursor:pointer;"
+onmouseover="this.style.transform='translateY(-5px) scale(1.05)';this.style.background='linear-gradient(90deg,#c2e9fb,#a1c4fd)';"
+onmouseout="this.style.transform='translateY(0) scale(1)';this.style.background='linear-gradient(90deg,#a1c4fd,#c2e9fb)';">NovaCMS</span>
+
 </div>
 
 ---
 
-## 🚀 Key Projects
+## 📊 GitHub Stats
 
-| Project | Description | Technologies |
-|--------|------------|--------------|
-| OmniFlow | Automation and workflow engine | Python |
-| SafExpr | Secure expression engine | JS / TS |
-| PolyglotToolbox | Multi-language developer tools | Go |
-| ProdStarterHub | Productivity starter tools | JS, TS |
-| Rarog | Game & engine tools | C++, C# |
-| CajeerEngine | CMS without external frameworks | PHP, JS |
-| NovaCMS | Headless CMS with visual editor and API | TypeScript |
-
----
-
-## 📊 GitHub Dynamic Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSkiF4er&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkiF4er&layout=compact&theme=radical)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TheSkiF4er&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkiF4er&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
 
 ---
 
 ## 🌟 Mission
 
-- Build tools that simplify developers’ lives  
-- Design systems with clean architecture and scalability  
-- Contribute to the open-source community  
-- Deliver projects that leave a lasting legacy
-
----
-
-> **"We build today what will last forever."**
+- Build elegant, reliable, and scalable systems  
+- Contribute thoughtfully to open-source  
+- Leave a lasting mark through code and vision
