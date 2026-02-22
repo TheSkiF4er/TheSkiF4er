@@ -24,15 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheSkiF4er&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSkiF4er&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
----
-
 ## 🌟 Mission
 
 - Build elegant, reliable, and scalable systems  
