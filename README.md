@@ -7,6 +7,7 @@
 Founder-minded full-stack developer focused on product systems, infrastructure, and ecosystem thinking.
 
 [Website](https://skif4er.ru/) • [GitHub](https://github.com/TheSkiF4er)
+[Telegram](https://t.me/sf4blog)
 
 </div>
 
@@ -63,8 +64,9 @@ That means:
 
 ## Links
 
-- Website: [skif4er.ru](https://skif4er.ru/)
+- Website: [SkiF4er.ru](https://skif4er.ru/)
 - GitHub: [github.com/TheSkiF4er](https://github.com/TheSkiF4er)
+- Telegram: [t.me/SF4Blog](https://t.me/sf4blog)
 
 ---
 
