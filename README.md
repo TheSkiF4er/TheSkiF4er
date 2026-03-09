@@ -20,26 +20,6 @@ This profile is intentionally focused on a small set of products and systems ins
 
 ---
 
-## Selected Projects
-
-### NexoraCMS
-A structured CMS direction built around precision, publishing workflows, and scalable product thinking.
-
-### CajeerEngine
-Core engineering infrastructure designed for extensibility, performance, and controlled evolution.
-
-### NovaCMS
-A modern CMS direction focused on usability, flexibility, and product clarity.
-
-### Arog Ecosystem
-A connected ecosystem approach with distinct product branches:
-
-- **Rarog**
-- **Warog**
-- **Farog**
-
----
-
 ## Approach
 
 - Minimal by default  
