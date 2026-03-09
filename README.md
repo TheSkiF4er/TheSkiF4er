@@ -21,7 +21,7 @@
 | **Rarog** | Game & engine tools | C++, C# |
 | **CajeerEngine** | Framework-less CMS | PHP, JS |
 | **NovaCMS** | Headless CMS with visual editor | TypeScript |
-| **NexoraCMS | 1C CMS | TS, JS |
+| **NexoraCMS** | 1C CMS | TS, JS |
 
 ---
 
