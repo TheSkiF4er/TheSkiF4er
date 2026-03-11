@@ -46,6 +46,8 @@ That means:
 - Website: [SkiF4er.ru](https://skif4er.ru/)
 - GitHub: [github.com/TheSkiF4er](https://github.com/TheSkiF4er)
 - Telegram: [t.me/SF4Blog](https://t.me/sf4blog)
+- Discord: [discord.gg/SkiF4er](https://discord.gg/E52DxpShQy)
+- GitBook: [docs.skif4er.ru](https://docs.skif4er.ru/)
 
 ---
 
