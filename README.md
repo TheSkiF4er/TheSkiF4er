@@ -6,7 +6,7 @@
 
 Founder-minded full-stack developer focused on product systems, infrastructure, and ecosystem thinking.
 
-[Website](https://skif4er.ru/) • [GitHub](https://github.com/TheSkiF4er) • [Telegram](https://t.me/sf4blog) • [Discord](https://discord.gg/E52DxpShQy) • 
+[Website](https://skif4er.ru/) • [GitHub](https://github.com/TheSkiF4er) • [Telegram](https://t.me/sf4blog) • [Discord](https://discord.gg/E52DxpShQy) • [GitBook](https://docs.skif4er.ru/)
 
 </div>
 
