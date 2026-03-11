@@ -23,20 +23,20 @@ No portfolio noise. No inflated language. Only structure, execution and visible 
 
 ## Flagship systems
 
-### CajeerEngine
+### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine)
 Core engineering layer for controlled extensibility, performance and long-term product discipline.
 
 ### [NovaCMS](https://github.com/TheSkiF4er)
 Modern editorial system shaped around clarity, usability and a cleaner product surface.
 
-### NexoraCMS
+### [NexoraCMS](https://github.com/TheSkiF4er/NexoraCMS)
 Structured CMS direction focused on governance, scale and operational precision.
 
 ### Arog
 Autonomous ecosystem of focused branches:
-- **Rarog** — execution and applied systems
-- **Warog** — continuity, structure and expansion
-- **Farog** — complementary branch completing the visible architecture
+- **[Rarog](https://github.com/TheSkiF4er/Rarog)** — execution and applied systems
+- **[Warog](https://github.com/TheSkiF4er/Warog)** — continuity, structure and expansion
+- **[Farog](https://github.com/TheSkiF4er/Farog)** — complementary branch completing the visible architecture
 
 ---
 
