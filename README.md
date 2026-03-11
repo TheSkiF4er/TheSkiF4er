@@ -26,7 +26,7 @@ No portfolio noise. No inflated language. Only structure, execution and visible 
 ### CajeerEngine
 Core engineering layer for controlled extensibility, performance and long-term product discipline.
 
-### NovaCMS
+### [NovaCMS](https://github.com/TheSkiF4er)
 Modern editorial system shaped around clarity, usability and a cleaner product surface.
 
 ### NexoraCMS
@@ -52,9 +52,9 @@ Autonomous ecosystem of focused branches:
 
 ## Community
 
-- **Telegram** — releases, notes and product signals
-- **Discord** — contributors, discussion and focused collaboration
-- **GitBook** — documentation, architecture and entry points
+- **[Telegram](https://t.me/sf4blog)** — releases, notes and product signals
+- **[Discord](https://discord.gg/E52DxpShQy)** — contributors, discussion and focused collaboration
+- **[GitBook](https://docs.skif4er.ru/)** — documentation, architecture and entry points
 
 ---
 
