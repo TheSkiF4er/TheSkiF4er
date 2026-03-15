@@ -2,64 +2,73 @@
 
 # SkiF4er
 
-### Minimal surface. Maximum control.
+### Меньше внешнего. Больше управы.
 
-Independent systems for content, platforms and modular products.
+Самостоятельные средства для ведения содержимого, площадок и составных изделий.
 
-[Website](https://skif4er.ru/) • [GitHub](https://github.com/TheSkiF4er) • [Telegram](https://t.me/sf4blog) • [Discord](https://discord.gg/E52DxpShQy) • [Docs](https://docs.skif4er.ru/)
+[Сайт](https://skif4er.ru/) • [Хранилилище кода](https://github.com/TheSkiF4er) • [Вестник](https://t.me/sf4blog) • [Беседа](https://discord.gg/E52DxpShQy) • [Справка](https://docs.skif4er.ru/)
 
 </div>
 
 ---
 
-## Positioning
+## Облик
 
-SkiF4er is an independent product identity built around **autonomy**, **minimalism** and **precision**.
+SkiF4er — самостоятельный ряд изделий, держащийся на самостоянии, простоте и точности.
 
-This profile exists to present systems that stay coherent under growth.
-No portfolio noise. No inflated language. Only structure, execution and visible results.
-
----
-
-## Flagship systems
-
-### [CajeerEngine](https://github.com/TheSkiF4er/CajeerEngine)
-Core engineering layer for controlled extensibility, performance and long-term product discipline.
-
-### [NovaCMS](https://github.com/TheSkiF4er)
-Modern editorial system shaped around clarity, usability and a cleaner product surface.
-
-### [NexoraCMS](https://github.com/TheSkiF4er/NexoraCMS)
-Structured CMS direction focused on governance, scale and operational precision.
-
-### Arog
-Autonomous ecosystem of focused branches:
-- **[Rarog](https://github.com/TheSkiF4er/Rarog)** — execution and applied systems
-- **[Warog](https://github.com/TheSkiF4er/Warog)** — continuity, structure and expansion
-- **[Farog](https://github.com/TheSkiF4er/Farog)** — complementary branch completing the visible architecture
+Этот свод нужен для показа средств, которые не теряют лада при росте.
+Без лишнего шума. Без напыщенных слов. Только строй, дело и зримый итог.
 
 ---
 
-## Principles
+## Главные средства
 
-- Autonomy over dependency
-- Minimalism over noise
-- Precision over speed theater
-- Structure over chaos
-- Long-term control over short-term attention
+### [Кэджер](book/systems/cajeerengine.md)
+Опорный рабочий слой для управляемого расширения, быстроты и долгого порядка в изделии.
+
+### [Арог](book/systems/arog.md)
+Самостоятельный набор российских каркасов, библиотек и орудий:
+- **[Рарог](https://github.com/TheSkiF4er/Rarog)** — каркас оформления
+- **[Фарог](https://github.com/TheSkiF4er/Farog)** — каркас сценариев
+- **[Варог](https://github.com/TheSkiF4er/Warog)** — библиотека сценариев и строгого описания
+- **Сарог** — каркас служебной части
+- **Жарог** — каркас серверной части
+- **Ларог** — каркас строго описанных сценариев
+- **Дарог** — библиотека серверной части
+- **Харог** — библиотека служебной части
+- **Зарог** — библиотека оформления
+
+### [Нексора](book/systems/nexoracms.md)
+Устроенное направление для ведения содержимого, сосредоточенное на управе, размахе и точности в ходе работы.
+
+### [Нова](book/systems/novacms.md)
+Современная издательская среда, выстроенная вокруг ясности, удобства и более чистого облика изделия.
+
+### [Рог](book/systems/rog.md)
+Российская система ведения содержимого.
 
 ---
 
-## Community
+## Основы
 
-- **[Telegram](https://t.me/sf4blog)** — releases, notes and product signals
-- **[Discord](https://discord.gg/E52DxpShQy)** — contributors, discussion and focused collaboration
-- **[GitBook](https://docs.skif4er.ru/)** — documentation, architecture and entry points
+- Самостоятельность важнее зависимости
+- Простота важнее шума
+- Точность важнее показной спешки
+- Строй важнее неразберихи
+- Долгая управа важнее краткого внимания
+
+---
+
+## Связь
+
+- **[Вестник](https://t.me/sf4blog)** — выпуски, заметки и вести о ходе работ
+- **[Беседа](https://discord.gg/E52DxpShQy)** — участники, разговор и слаженная совместная работа
+- **[Справка](https://docs.skif4er.ru/)** — описание, устройство и точки входа
 
 ---
 
 <div align="center">
 
-Build quietly. Ship precisely. Let the work speak.
+Тихая работа. Точный выпуск. Пусть дело говорит само.
 
 </div>
