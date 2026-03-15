@@ -1,10 +1,11 @@
-# Systems
+# Средства
 
-The SkiF4er ecosystem is built around a small number of flagship systems.
-Each one has a focused role.
-Together they form a controlled and extensible product structure.
+Круг SkiF4er держится на малом числе главных средств.
+У каждого своя точная доля.
+Вместе они образуют управляемый и расширяемый строй изделий.
 
-- **CajeerEngine** — core engineering layer
-- **NovaCMS** — modern editorial system
-- **NexoraCMS** — structured CMS direction
-- **Arog** — modular ecosystem with focused branches
+- **Кэджер** — опорный рабочий слой
+- **Арог** — набор каркасов, библиотек и орудий
+- **Нексора** — устроенное направление для ведения содержимого
+- **Нова** — современная издательская среда
+- **Рог** — российская система ведения содержимого

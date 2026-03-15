@@ -1,5 +1,5 @@
-# NexoraCMS
+# Нексора
 
-NexoraCMS is a structured CMS direction focused on governance, scale and operational precision.
+Нексора — устроенное направление для ведения содержимого, сосредоточенное на управе, размахе и точности в ходе работы.
 
-It is positioned for environments where content systems need stronger control, cleaner boundaries and a more deliberate architecture.
+Она предназначена для тех мест, где средствам ведения содержимого нужны более крепкая управа, более чистые границы и более обдуманное устройство.

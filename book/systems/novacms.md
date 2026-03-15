@@ -1,5 +1,5 @@
-# NovaCMS
+# Нова
 
-NovaCMS is a modern editorial system built around clarity, usability and a cleaner product surface.
+Нова — современная издательская среда, выстроенная вокруг ясности, удобства и более чистого облика изделия.
 
-Its role inside the ecosystem is to make editorial work feel structured, lightweight and controlled without sacrificing flexibility.
+Её место внутри круга — делать издательскую работу устроенной, лёгкой и управляемой без утраты гибкости.

@@ -1,6 +1,6 @@
-# CajeerEngine
+# Кэджер
 
-CajeerEngine is the core engineering layer of the ecosystem.
+Кэджер — опорный рабочий слой круга.
 
-It exists to support modular growth, controlled extensibility and long-term product discipline.
-The emphasis is not on noise or abstraction for its own sake, but on systems that remain clear as they expand.
+Он нужен для составного роста, управляемого расширения и долгого порядка в изделии.
+Упор здесь не на шум и отвлечённость ради них самих, а на такие средства, которые остаются ясными по мере разрастания.
