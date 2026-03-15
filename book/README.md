@@ -1,47 +1,50 @@
-# SkiF4er Docs
+# Справка SkiF4er
 
-> Minimal surface. Maximum control.
+> Меньше внешнего. Больше управы.
 
-This documentation is the operating layer of the SkiF4er ecosystem.
-It covers the core systems, their structure, and the logic behind their growth.
+Эта справка — рабочий слой круга SkiF4er.
+Здесь собраны главные средства, их устройство и ход их роста.
 
-This space is intentionally restrained.
-Less commentary. More signal.
+Здесь намеренно мало лишнего.
+Меньше пояснений. Больше сути.
 
-## What lives here
+## Что есть здесь
 
-- product overviews
-- architecture notes
-- quickstart entry points
-- ecosystem structure
-- contribution direction
+- обзоры изделий
+- заметки по устройству
+- быстрые входы
+- строй круга
+- направление участия
 
-## Core systems
+## Главные средства
 
-### CajeerEngine
-Core engineering layer for modular growth, controlled extensibility and long-term product discipline.
+### Кэджер
+Опорный рабочий слой для составного роста, управляемого расширения и долгого порядка в изделии.
 
-### NovaCMS
-Modern editorial system shaped around clarity, usability and a cleaner product surface.
+### Арог
+Набор российских библиотек, каркасов и орудий: **Рарог**, **Фарог**, **Варог**, **Сарог**, **Жарог**, **Ларог**, **Дарог**, **Харог** и **Зарог**.
 
-### NexoraCMS
-Structured CMS direction focused on governance, scale and operational precision.
+### Нексора
+Устроенное направление для ведения содержимого, сосредоточенное на управе, размахе и точности в ходе работы.
 
-### Arog
-Autonomous ecosystem of focused branches: **Rarog**, **Warog** and **Farog**.
+### Нова
+Современная издательская среда, выстроенная вокруг ясности, удобства и более чистого облика изделия.
 
-## Operating principles
+### Рог
+Российская система ведения содержимого.
 
-- autonomy
-- minimalism
-- precision
-- structural clarity
-- long horizon
+## Рабочие начала
 
-## Start here
+- самостоятельность
+- простота
+- точность
+- ясный строй
+- дальний взгляд
 
-Open the system you need from the sidebar.
-Read the overview first.
-Then move into setup, architecture and contribution flow.
+## Начать отсюда
 
-The goal is simple: make structure visible.
+Откройте нужное средство в боковом перечне.
+Сперва прочтите общий обзор.
+Потом переходите к наладке, устройству и порядку участия.
+
+Цель проста: сделать строй зримым.
