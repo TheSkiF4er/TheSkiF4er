@@ -17,15 +17,15 @@
   <a href="https://skif4er.ru/">Сайт</a> ·
   <a href="https://docs.skif4er.ru/">Документация</a> ·
   <a href="https://github.com/TheSkiF4er">GitHub</a> ·
-  <a href="https://github.com/CajeerTeam">Cajeer Team</a> ·
+  <a href="https://github.com/CajeerTeam">Cajeer Team & Cajeer 404</a> ·
   <a href="https://t.me/sf4blog">Telegram</a> ·
   <a href="https://discord.gg/E52DxpShQy">Discord</a>
 </p>
 
 ## Кто я
 
-Я — **SkiF4er**, open-source activist и senior full-stack developer.
-Руковожу **Cajeer Team** и **Cajeer 404**, строю независимые системы, документацию и продуктовые контуры вокруг инженерной дисциплины, открытого кода и долгого горизонта.
+Я — **SkiF4er**, активист открытого программного обеспечения и ведущий разработчик полного цикла.
+Руковожу **Cajeer Team** & **Cajeer 404**, строю независимые системы, документацию и продуктовые контуры вокруг инженерной дисциплины, открытого кода и долгого горизонта.
 
 ## Экосистема
 
