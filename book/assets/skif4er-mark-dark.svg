@@ -1,0 +1,8 @@
+<svg width="720" height="160" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SkiF4er logo">
+  <g>
+    <rect x="12" y="26" width="108" height="108" rx="28" fill="#0B0F14" stroke="#4F8CFF" stroke-opacity="0.45" />
+    <text x="34" y="92" fill="#EAF1FB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">SF4</text>
+  </g>
+  <text x="154" y="80" fill="#EAF1FB" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">SkiF4er</text>
+  <text x="154" y="114" fill="#EAF1FB" fill-opacity="0.7" font-family="Arial, Helvetica, sans-serif" font-size="20">Независимые системы · Открытый код</text>
+</svg>

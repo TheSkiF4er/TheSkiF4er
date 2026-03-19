@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SkiF4er avatar">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090C11" />
+      <stop offset="100%" stop-color="#111A24" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4F8CFF" />
+      <stop offset="100%" stop-color="#7AA8FF" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)" />
+  <rect x="46" y="46" width="420" height="420" rx="96" fill="none" stroke="rgba(255,255,255,.08)" />
+  <path d="M84 256H428" stroke="rgba(255,255,255,.08)" />
+  <path d="M256 84V428" stroke="rgba(255,255,255,.08)" />
+  <text x="110" y="288" fill="#EAF1FB" font-family="Arial, Helvetica, sans-serif" font-size="132" font-weight="700">SF4</text>
+  <rect x="86" y="340" width="172" height="34" rx="17" fill="rgba(79,140,255,.14)" stroke="rgba(79,140,255,.36)" />
+  <text x="116" y="363" fill="#EAF1FB" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">SKIF4ER</text>
+</svg>
