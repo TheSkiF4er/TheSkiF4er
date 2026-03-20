@@ -16,7 +16,6 @@
 <p align="center">
   <a href="https://skif4er.ru/">Сайт</a> ·
   <a href="https://docs.skif4er.ru/">Документация</a> ·
-  <a href="https://github.com/TheSkiF4er">GitHub</a> ·
   <a href="https://github.com/CajeerTeam">Cajeer Team & Cajeer 404</a> ·
   <a href="https://t.me/sf4blog">Telegram</a> ·
   <a href="https://discord.gg/E52DxpShQy">Discord</a>
