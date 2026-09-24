@@ -81,4 +81,3 @@
 | **Личный сайт** | [skif4er.ru](https://skif4er.ru/) |
 | **VK** | [sf4dev](https://vk.ru/sf4dev) |
 | **Telegram** | [SF4Blog](https://t.me/SF4Blog) |
-| **Discord** | [Discord-сервер](https://discord.gg/5Syw98WhmQ) |
