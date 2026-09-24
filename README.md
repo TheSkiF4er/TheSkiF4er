@@ -1,6 +1,6 @@
 # Дмитрий «SkiF4er» Ефимов
 
-**Senior Full-Stack Developer · Фриланс**
+**Senior Full-Stack Developer**
 
 Разработка ПО · Серверная инфраструктура · Сети и связь · Информационная безопасность
 
