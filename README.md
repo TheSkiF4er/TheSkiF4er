@@ -8,6 +8,20 @@
 
 Мой инженерный профиль охватывает также сети, системное администрирование, ремонт компьютерной и серверной техники, радио- и спутниковую связь, информационную безопасность и криптографическую защиту информации. Это помогает учитывать, как программное обеспечение взаимодействует с оборудованием, инфраструктурой и каналами связи.
 
+## Ключевые проекты
+
+| Проект | Направление | Что показывает |
+| --- | --- | --- |
+| [**NeverLauncher**](https://github.com/DeepLayerTeam/NeverLauncher) | Minecraft LauncherOps · Backend · Desktop · Security · Release Engineering | Кроссплатформенная launcher-инфраструктура, Go/Rust/TypeScript, Auth Federation, Device Trust, NeverGuard, ServerBridge, CI/E2E и production delivery |
+| [**CajeerEngine**](https://github.com/CajeerTeam/CajeerEngine) | PHP · Backend Platform · API | Собственное PHP-ядро, Symfony Components, REST/API-first архитектура, installer/upgrade tooling, PostgreSQL и production-инфраструктура |
+| [**CajeerBots**](https://github.com/CajeerTeam/CajeerBots) | TypeScript · Automation · Integrations | NestJS/Fastify-платформа для Telegram, VK и Discord, Prisma, Redis, очереди, observability и CLI |
+| [**SynergyPortfolio**](https://github.com/TheSkiF4er/SynergyPortfolio) | Учебные и инженерные работы | Python, JavaScript, React, TypeScript, C, сети, архитектура ПО, тестирование, Docker и воспроизводимые практические задания |
+
+### Команды и экосистемы
+
+- [**Cajeer Team**](https://github.com/CajeerTeam) — открытые программные платформы, серверные инструменты, автоматизация и инфраструктурные решения.
+- [**DeepLayer Team**](https://github.com/DeepLayerTeam) — Minecraft-разработка и инфраструктура вокруг NeverMine и экосистемы Never.
+
 ## Профессиональные компетенции
 
 | Направление | Специализации |
@@ -79,5 +93,7 @@
 | Ресурс | Ссылка |
 | --- | --- |
 | **Личный сайт** | [skif4er.ru](https://skif4er.ru/) |
+| **GitHub · Cajeer Team** | [github.com/CajeerTeam](https://github.com/CajeerTeam) |
+| **GitHub · DeepLayer Team** | [github.com/DeepLayerTeam](https://github.com/DeepLayerTeam) |
 | **VK** | [sf4dev](https://vk.ru/sf4dev) |
 | **Telegram** | [SF4Blog](https://t.me/SF4Blog) |
