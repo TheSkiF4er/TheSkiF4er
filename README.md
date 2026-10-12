@@ -47,11 +47,12 @@
 
 | Область | Технологии |
 | --- | --- |
-| **Операционные системы** | Debian, Ubuntu |
-| **Веб-сервер** | Nginx |
-| **Реляционные базы данных** | PostgreSQL, MySQL, MariaDB |
-| **Кэширование** | Redis |
-| **Интеграции** | REST API, вебхуки |
+| **Операционные системы** | Debian, Ubuntu, Astra |
+| **Веб-сервер** | Nginx, Apache, Caddy |
+| **Реляционные базы данных** | PostgreSQL, MySQL, MariaDB, SQLite |
+| **Нереляционные базы данных** | MongoDB |
+| **Кэширование** | Redis, Memcached |
+| **Интеграции** | REST API, JSON, вебхуки |
 
 <details>
 <summary>Дополнительные языки и практический опыт</summary>
