@@ -15,7 +15,9 @@
 | [**NeverLauncher**](https://github.com/DeepLayerTeam/NeverLauncher) | Minecraft LauncherOps · Backend · Desktop · Security · Release Engineering | Кроссплатформенная launcher-инфраструктура, Go/Rust/TypeScript, Auth Federation, Device Trust, NeverGuard, ServerBridge, CI/E2E и production delivery |
 | [**CajeerEngine**](https://github.com/CajeerTeam/CajeerEngine) | PHP · Backend Platform · API | Собственное PHP-ядро, Symfony Components, REST/API-first архитектура, installer/upgrade tooling, PostgreSQL и production-инфраструктура |
 | [**CajeerBots**](https://github.com/CajeerTeam/CajeerBots) | TypeScript · Automation · Integrations | NestJS/Fastify-платформа для Telegram, VK и Discord, Prisma, Redis, очереди, observability и CLI |
-| [**SynergyPortfolio**](https://github.com/TheSkiF4er/SynergyPortfolio) | Учебные и инженерные работы | Python, JavaScript, React, TypeScript, C, сети, архитектура ПО, тестирование, Docker и воспроизводимые практические задания |
+| [**CajeerServers**](https://github.com/CajeerTeam/CajeerServers) | ... | PHP · Backend Platform · API | Собственное PHP-ядро, Symfony Components, REST/API-first архитектура, installer/upgrade tooling, PostgreSQL и production-инфраструктура |
+| [**CajeerLogs**](https://github.com/CajeerTeam/CajeerLogs) | ... | PHP · Backend Platform · API | Собственное PHP-ядро, Symfony Components, REST/API-first архитектура, installer/upgrade tooling, PostgreSQL и production-инфраструктура |
+| [**CajeerWorkspace**](https://github.com/CajeerTeam/CajeerWorkspace) | ... | PHP · Backend Platform · API | Собственное PHP-ядро, Symfony Components, REST/API-first архитектура, installer/upgrade tooling, PostgreSQL и production-инфраструктура |
 
 ### Команды и экосистемы
 
